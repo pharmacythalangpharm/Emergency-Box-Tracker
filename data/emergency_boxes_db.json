@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-15T14:36:46.792Z",
+  "updatedAt": "2026-10-15T14:38:14.287Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -71,7 +71,7 @@
     {
       "id": "med-11",
       "name": "Magnesium Sulfate",
-      "dosage": "50% 1 g/2 mL",
+      "dosage": "10% 1 g/10 mL",
       "unit": "Amp",
       "defaultPar": 2
     },
