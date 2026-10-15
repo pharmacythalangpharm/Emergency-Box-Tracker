@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-15T15:42:25.656Z",
+  "updatedAt": "2026-10-15T17:14:17.367Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -63,6 +63,13 @@
       "dosage": "10% 10 mL",
       "unit": "Amp",
       "defaultPar": 3
+    },
+    {
+      "id": "med-1792084457366",
+      "name": "Diazepam",
+      "dosage": "10mg/2ml",
+      "unit": "Amp",
+      "defaultPar": 2
     },
     {
       "id": "med-4",
@@ -237,6 +244,21 @@
               "qty": 4
             }
           ]
+        },
+        {
+          "medicineId": "med-1792084457366",
+          "medicineName": "Diazepam",
+          "dosage": "10mg/2ml",
+          "unit": "Amp",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792084457366",
+              "lotNo": "",
+              "expDate": "2026-07-24",
+              "qty": 2
+            }
+          ]
         }
       ]
     },
@@ -382,6 +404,21 @@
               "lotNo": "LOT-SOD-119",
               "expDate": "2028-08-15",
               "qty": 4
+            }
+          ]
+        },
+        {
+          "medicineId": "med-1792084457366",
+          "medicineName": "Diazepam",
+          "dosage": "10mg/2ml",
+          "unit": "Amp",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792084457366",
+              "lotNo": "",
+              "expDate": "2026-07-24",
+              "qty": 2
             }
           ]
         }
