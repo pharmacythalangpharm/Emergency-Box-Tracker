@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-15T14:34:44.918Z",
+  "updatedAt": "2026-10-15T14:36:46.792Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -25,6 +25,13 @@
       "dosage": "50 mL",
       "unit": "Vial",
       "defaultPar": 1
+    },
+    {
+      "id": "med-6",
+      "name": "Adenosine",
+      "dosage": "6 mg/2ml",
+      "unit": "Amp",
+      "defaultPar": 2
     },
     {
       "id": "med-1",
@@ -53,13 +60,6 @@
       "dosage": "10% 10 mL",
       "unit": "Amp",
       "defaultPar": 3
-    },
-    {
-      "id": "med-6",
-      "name": "Diazepam (Valium)",
-      "dosage": "10 mg/2 mL",
-      "unit": "Amp",
-      "defaultPar": 2
     },
     {
       "id": "med-4",
