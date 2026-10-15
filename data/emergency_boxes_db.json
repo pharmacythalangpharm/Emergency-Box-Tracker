@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-15T17:14:17.367Z",
+  "updatedAt": "2026-10-15T17:21:10.278Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -13,7 +13,8 @@
     "แผนกผู้ป่วยนอก อายุรกรรมชั้น 2",
     "เรือนจำบางโจ",
     "ห้องคลอดแม่ (LR)",
-    "ห้องคลอดลูก (LR)"
+    "ห้องคลอดลูก (LR)",
+    "แผนกเอกซเรย์คอมพิวเตอร์ (CT Scan)"
   ],
   "staff": [
     "ภญ. ธนศรี แสงรุ้ง",
@@ -186,6 +187,21 @@
           ]
         },
         {
+          "medicineId": "med-1792084457366",
+          "medicineName": "Diazepam",
+          "dosage": "10mg/2ml",
+          "unit": "Amp",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792084457366",
+              "lotNo": "",
+              "expDate": "2026-07-24",
+              "qty": 2
+            }
+          ]
+        },
+        {
           "medicineId": "med-6",
           "medicineName": "Diazepam (Valium)",
           "dosage": "10 mg/2 mL",
@@ -242,21 +258,6 @@
               "lotNo": "LOT-SOD-112",
               "expDate": "2028-01-15",
               "qty": 4
-            }
-          ]
-        },
-        {
-          "medicineId": "med-1792084457366",
-          "medicineName": "Diazepam",
-          "dosage": "10mg/2ml",
-          "unit": "Amp",
-          "parLevel": 2,
-          "lots": [
-            {
-              "id": "lot-1792084457366",
-              "lotNo": "",
-              "expDate": "2026-07-24",
-              "qty": 2
             }
           ]
         }
@@ -348,6 +349,21 @@
           ]
         },
         {
+          "medicineId": "med-1792084457366",
+          "medicineName": "Diazepam",
+          "dosage": "10mg/2ml",
+          "unit": "Amp",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792084457366",
+              "lotNo": "",
+              "expDate": "2026-07-24",
+              "qty": 2
+            }
+          ]
+        },
+        {
           "medicineId": "med-6",
           "medicineName": "Diazepam (Valium)",
           "dosage": "10 mg/2 mL",
@@ -404,21 +420,6 @@
               "lotNo": "LOT-SOD-119",
               "expDate": "2028-08-15",
               "qty": 4
-            }
-          ]
-        },
-        {
-          "medicineId": "med-1792084457366",
-          "medicineName": "Diazepam",
-          "dosage": "10mg/2ml",
-          "unit": "Amp",
-          "parLevel": 2,
-          "lots": [
-            {
-              "id": "lot-1792084457366",
-              "lotNo": "",
-              "expDate": "2026-07-24",
-              "qty": 2
             }
           ]
         }
