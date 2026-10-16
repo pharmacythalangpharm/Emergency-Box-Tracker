@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-16T10:26:44.885Z",
+  "updatedAt": "2026-10-16T11:06:17.091Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -86,6 +86,13 @@
       "id": "med-11",
       "name": "Magnesium Sulfate",
       "dosage": "10% 1 g/10 mL",
+      "unit": "Amp",
+      "defaultPar": 2
+    },
+    {
+      "id": "med-1792148777091",
+      "name": "Norepinephrine",
+      "dosage": "4 mg/4ml",
       "unit": "Amp",
       "defaultPar": 2
     },
@@ -263,6 +270,21 @@
               "qty": 4
             }
           ]
+        },
+        {
+          "medicineId": "med-1792148777091",
+          "medicineName": "Norepinephrine",
+          "dosage": "4 mg/4ml",
+          "unit": "Amp",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792148777091",
+              "lotNo": "",
+              "expDate": "2026-07-24",
+              "qty": 2
+            }
+          ]
         }
       ]
     },
@@ -423,6 +445,21 @@
               "lotNo": "LOT-SOD-119",
               "expDate": "2028-08-15",
               "qty": 4
+            }
+          ]
+        },
+        {
+          "medicineId": "med-1792148777091",
+          "medicineName": "Norepinephrine",
+          "dosage": "4 mg/4ml",
+          "unit": "Amp",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792148777091",
+              "lotNo": "",
+              "expDate": "2026-07-24",
+              "qty": 2
             }
           ]
         }
