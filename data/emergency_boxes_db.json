@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-16T11:07:37.631Z",
+  "updatedAt": "2026-10-16T11:07:44.688Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -36,7 +36,7 @@
     {
       "id": "med-6",
       "name": "Adenosine",
-      "dosage": "6 mg/2ml",
+      "dosage": "6 mg/2mL",
       "unit": "Amp",
       "defaultPar": 2
     },
