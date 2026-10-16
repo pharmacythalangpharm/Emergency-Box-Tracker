@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-16T11:08:13.959Z",
+  "updatedAt": "2026-10-16T11:08:21.911Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -99,7 +99,7 @@
     {
       "id": "med-1792148777091",
       "name": "Norepinephrine",
-      "dosage": "4 mg/4ml",
+      "dosage": "4 mg/4mL",
       "unit": "Amp",
       "defaultPar": 2
     },
