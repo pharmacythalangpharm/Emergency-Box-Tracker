@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-16T11:07:44.688Z",
+  "updatedAt": "2026-10-16T11:08:04.311Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -71,7 +71,7 @@
     {
       "id": "med-1792084457366",
       "name": "Diazepam",
-      "dosage": "10mg/2ml",
+      "dosage": "10mg/2mL",
       "unit": "Amp",
       "defaultPar": 2
     },
