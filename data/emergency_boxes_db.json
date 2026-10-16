@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-16T11:08:04.311Z",
+  "updatedAt": "2026-10-16T11:08:13.959Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -85,7 +85,7 @@
     {
       "id": "med-1792148834429",
       "name": "Lidocaine HCL (Preservative free)",
-      "dosage": "40mg/2ml (2%w/v)",
+      "dosage": "40mg/2mL (2%w/v)",
       "unit": "Amp",
       "defaultPar": 4
     },
