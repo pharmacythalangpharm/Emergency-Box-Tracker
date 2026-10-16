@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-16T11:22:24.725Z",
+  "updatedAt": "2026-10-16T11:23:13.310Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -129,8 +129,8 @@
   "boxes": [
     {
       "id": "box-1",
-      "boxNumber": "01",
-      "department": "แผนกผู้ป่วยฉุกเฉิน (ER)",
+      "boxNumber": "14",
+      "department": "แผนกเภสัชกรรม",
       "preparedDate": "2026-06-28",
       "dispensedDate": "2026-07-01",
       "preparedBy": "พว. สุภาพร ใจดี",
@@ -264,6 +264,21 @@
           ]
         },
         {
+          "medicineId": "med-1792148834429",
+          "medicineName": "Lidocaine HCL (Preservative free)",
+          "dosage": "40mg/2ml (2%w/v)",
+          "unit": "Amp",
+          "parLevel": 4,
+          "lots": [
+            {
+              "id": "lot-1792148834429",
+              "lotNo": "",
+              "expDate": "2026-07-24",
+              "qty": 4
+            }
+          ]
+        },
+        {
           "medicineId": "med-11",
           "medicineName": "Magnesium Sulfate",
           "dosage": "50% 2 g/4 mL",
@@ -274,21 +289,6 @@
               "id": "lot-def-1-9",
               "lotNo": "LOT-MAG-110",
               "expDate": "2027-11-15",
-              "qty": 4
-            }
-          ]
-        },
-        {
-          "medicineId": "med-8",
-          "medicineName": "Sodium Bicarbonate",
-          "dosage": "7.5% 50 mL",
-          "unit": "Vial",
-          "parLevel": 4,
-          "lots": [
-            {
-              "id": "lot-def-1-11",
-              "lotNo": "LOT-SOD-112",
-              "expDate": "2028-01-15",
               "qty": 4
             }
           ]
@@ -309,16 +309,16 @@
           ]
         },
         {
-          "medicineId": "med-1792148834429",
-          "medicineName": "Lidocaine HCL (Preservative free)",
-          "dosage": "40mg/2ml (2%w/v)",
-          "unit": "Amp",
+          "medicineId": "med-8",
+          "medicineName": "Sodium Bicarbonate",
+          "dosage": "7.5% 50 mL",
+          "unit": "Vial",
           "parLevel": 4,
           "lots": [
             {
-              "id": "lot-1792148834429",
-              "lotNo": "",
-              "expDate": "2026-07-24",
+              "id": "lot-def-1-11",
+              "lotNo": "LOT-SOD-112",
+              "expDate": "2028-01-15",
               "qty": 4
             }
           ]
