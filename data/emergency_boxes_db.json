@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-16T11:09:55.354Z",
+  "updatedAt": "2026-10-16T11:12:20.342Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -64,7 +64,7 @@
     {
       "id": "med-9",
       "name": "Calcium Gluconate",
-      "dosage": "10% 10 mL",
+      "dosage": "10%w/v - 10 mL",
       "unit": "Amp",
       "defaultPar": 3
     },
