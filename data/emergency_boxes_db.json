@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-16T11:06:17.091Z",
+  "updatedAt": "2026-10-16T11:07:14.429Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -81,6 +81,13 @@
       "dosage": "250 mg/10 mL",
       "unit": "Vial",
       "defaultPar": 2
+    },
+    {
+      "id": "med-1792148834429",
+      "name": "Lidocaine HCL (Preservative free)",
+      "dosage": "40mg/2ml (2%w/v)",
+      "unit": "Amp",
+      "defaultPar": 4
     },
     {
       "id": "med-11",
@@ -285,6 +292,21 @@
               "qty": 2
             }
           ]
+        },
+        {
+          "medicineId": "med-1792148834429",
+          "medicineName": "Lidocaine HCL (Preservative free)",
+          "dosage": "40mg/2ml (2%w/v)",
+          "unit": "Amp",
+          "parLevel": 4,
+          "lots": [
+            {
+              "id": "lot-1792148834429",
+              "lotNo": "",
+              "expDate": "2026-07-24",
+              "qty": 4
+            }
+          ]
         }
       ]
     },
@@ -460,6 +482,21 @@
               "lotNo": "",
               "expDate": "2026-07-24",
               "qty": 2
+            }
+          ]
+        },
+        {
+          "medicineId": "med-1792148834429",
+          "medicineName": "Lidocaine HCL (Preservative free)",
+          "dosage": "40mg/2ml (2%w/v)",
+          "unit": "Amp",
+          "parLevel": 4,
+          "lots": [
+            {
+              "id": "lot-1792148834429",
+              "lotNo": "",
+              "expDate": "2026-07-24",
+              "qty": 4
             }
           ]
         }
