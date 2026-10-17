@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-16T11:27:04.602Z",
+  "updatedAt": "2026-10-17T03:37:14.128Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -129,11 +129,11 @@
   "boxes": [
     {
       "id": "box-1",
-      "boxNumber": "14",
+      "boxNumber": "2",
       "department": "แผนกเภสัชกรรม",
-      "preparedDate": "2026-06-28",
-      "dispensedDate": "2026-07-01",
-      "preparedBy": "พว. สุภาพร ใจดี",
+      "preparedDate": "2026-10-17",
+      "dispensedDate": "2026-10-17",
+      "preparedBy": "ภญ.ธนพร เลิศสกุลบรรลือ",
       "dispensedBy": "นายวิชัย สมบูรณ์",
       "verifiedBy": "พว. ชลธิชา วรรณดี",
       "inventory": [
