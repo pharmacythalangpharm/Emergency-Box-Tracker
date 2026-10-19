@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-19T03:44:26.309Z",
+  "updatedAt": "2026-10-19T04:20:47.214Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "ห้องผ่าตัด (OR)",
@@ -2527,6 +2527,228 @@
           "lots": [
             {
               "id": "lot-1792380088725-1",
+              "lotNo": "263200",
+              "expDate": "2030-04-02",
+              "qty": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "box-1792382593333",
+      "boxNumber": "9",
+      "department": "หน่วยไตเทียม",
+      "preparedDate": "2026-10-19",
+      "dispensedDate": "2026-10-19",
+      "preparedBy": "น.ส.รุสนานี  สูแว",
+      "dispensedBy": "น.ส.รุสนานี  สูแว",
+      "verifiedBy": "น.ส.รุสนานี  สูแว",
+      "inventory": [
+        {
+          "medicineId": "med-7",
+          "medicineName": "50% Glucose (Dextrose)",
+          "dosage": "50 mL",
+          "unit": "Vial",
+          "parLevel": 1,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
+              "lotNo": "L251120",
+              "expDate": "2027-12-03",
+              "qty": 1
+            }
+          ]
+        },
+        {
+          "medicineId": "med-6",
+          "medicineName": "Adenosine",
+          "dosage": "6 mg/2mL",
+          "unit": "Amp",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
+              "lotNo": "2F24005",
+              "expDate": "2027-10-31",
+              "qty": 2
+            }
+          ]
+        },
+        {
+          "medicineId": "med-1",
+          "medicineName": "Adrenaline (Epinephrine)",
+          "dosage": "1 mg/1 mL",
+          "unit": "Amp",
+          "parLevel": 20,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
+              "lotNo": "J690100",
+              "expDate": "2028-04-02",
+              "qty": 20
+            }
+          ]
+        },
+        {
+          "medicineId": "med-3",
+          "medicineName": "Amiodarone (Cordarone)",
+          "dosage": "150 mg/3 mL",
+          "unit": "Vial",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
+              "lotNo": "5J6001",
+              "expDate": "2027-10-31",
+              "qty": 2
+            }
+          ]
+        },
+        {
+          "medicineId": "med-2",
+          "medicineName": "Atropine Sulfate",
+          "dosage": "0.6 mg/1 mL",
+          "unit": "Amp",
+          "parLevel": 4,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
+              "lotNo": "J670083",
+              "expDate": "2027-03-27",
+              "qty": 2
+            },
+            {
+              "id": "lot-1792383373006-0.23230520070729554",
+              "lotNo": "J670177",
+              "expDate": "2027-06-05",
+              "qty": 2
+            }
+          ]
+        },
+        {
+          "medicineId": "med-9",
+          "medicineName": "Calcium Gluconate",
+          "dosage": "10%w/v (10 mL)",
+          "unit": "Amp",
+          "parLevel": 3,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
+              "lotNo": "J680319",
+              "expDate": "2030-09-25",
+              "qty": 2
+            },
+            {
+              "id": "lot-1792382889085-0.023509371014443614",
+              "lotNo": "J690112",
+              "expDate": "2031-03-24",
+              "qty": 1
+            }
+          ]
+        },
+        {
+          "medicineId": "med-1792084457366",
+          "medicineName": "Diazepam",
+          "dosage": "10mg/2mL",
+          "unit": "Amp",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
+              "lotNo": "J690015",
+              "expDate": "2029-01-31",
+              "qty": 1
+            },
+            {
+              "id": "lot-1792382979749-0.6705891542501151",
+              "lotNo": "J690171",
+              "expDate": "2029-05-21",
+              "qty": 1
+            }
+          ]
+        },
+        {
+          "medicineId": "med-4",
+          "medicineName": "Dopamine HCl",
+          "dosage": "250 mg/10 mL",
+          "unit": "Vial",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
+              "lotNo": "1103071",
+              "expDate": "2027-05-22",
+              "qty": 1
+            },
+            {
+              "id": "lot-1792383098541-0.779587326317023",
+              "lotNo": "1105179",
+              "expDate": "2027-08-21",
+              "qty": 0
+            }
+          ]
+        },
+        {
+          "medicineId": "med-1792148834429",
+          "medicineName": "Lidocaine HCL (Preservative free)",
+          "dosage": "40mg/2mL (2%w/v)",
+          "unit": "Amp",
+          "parLevel": 4,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
+              "lotNo": "J670290",
+              "expDate": "2027-07-30",
+              "qty": 4
+            }
+          ]
+        },
+        {
+          "medicineId": "med-11",
+          "medicineName": "Magnesium Sulfate",
+          "dosage": "10%w/v (1 g/10 mL)",
+          "unit": "Amp",
+          "parLevel": 4,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
+              "lotNo": "233308",
+              "expDate": "2027-06-08",
+              "qty": 3
+            },
+            {
+              "id": "lot-1792383224878-0.4980459353034782",
+              "lotNo": "233390",
+              "expDate": "2027-07-25",
+              "qty": 1
+            }
+          ]
+        },
+        {
+          "medicineId": "med-1792148777091",
+          "medicineName": "Norepinephrine",
+          "dosage": "4 mg/4mL",
+          "unit": "Amp",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
+              "lotNo": "2250049",
+              "expDate": "2027-03-29",
+              "qty": 2
+            }
+          ]
+        },
+        {
+          "medicineId": "med-8",
+          "medicineName": "Sodium Bicarbonate",
+          "dosage": "7.5% 50 mL",
+          "unit": "Vial",
+          "parLevel": 2,
+          "lots": [
+            {
+              "id": "lot-1792382593333-1",
               "lotNo": "263200",
               "expDate": "2030-04-02",
               "qty": 2
