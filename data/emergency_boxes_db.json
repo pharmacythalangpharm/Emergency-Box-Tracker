@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-26T02:30:36.153Z",
+  "updatedAt": "2026-10-26T02:40:48.453Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "หอผู้ป่วยเวชสิริ 1",
@@ -548,11 +548,11 @@
       "id": "box-1792231232184",
       "boxNumber": "00",
       "department": "ห้องคลอดลูก (LR)",
-      "preparedDate": "2026-10-17",
-      "dispensedDate": "2026-10-17",
-      "preparedBy": "ภญ. ธนศรี แสงรุ้ง",
-      "dispensedBy": "ภญ. ธนศรี แสงรุ้ง",
-      "verifiedBy": "ภญ. ธนศรี แสงรุ้ง",
+      "preparedDate": "2026-10-26",
+      "dispensedDate": "2026-10-26",
+      "preparedBy": "น.ส.ฟาฏีนา โมงสะอะ",
+      "dispensedBy": ".",
+      "verifiedBy": "ภก. ธนากร ตันบุตร",
       "inventory": [
         {
           "medicineId": "med-7",
@@ -592,16 +592,10 @@
           "parLevel": 20,
           "lots": [
             {
-              "id": "lot-1792231232184-1",
-              "lotNo": "IA02D01",
-              "expDate": "2029-01-15",
-              "qty": 1
-            },
-            {
               "id": "lot-1792231584639-0.47712981348135264",
-              "lotNo": "IA02D02",
-              "expDate": "2028-09-15",
-              "qty": 1
+              "lotNo": "IA02D03",
+              "expDate": "2028-11-23",
+              "qty": 2
             }
           ]
         },
