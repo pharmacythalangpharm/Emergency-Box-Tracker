@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-10-26T03:00:51.270Z",
+  "updatedAt": "2026-10-26T03:02:46.456Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "หอผู้ป่วยเวชสิริ 1",
@@ -350,11 +350,11 @@
       "id": "box-1792229193750",
       "boxNumber": "7",
       "department": "หอผู้ป่วยเวชสิริ 2",
-      "preparedDate": "2026-10-13",
-      "dispensedDate": "2026-10-17",
-      "preparedBy": "น.ส.รุสนานี  สูแว",
-      "dispensedBy": "ภญ. ธนศรี แสงรุ้ง",
-      "verifiedBy": "ภญ.ธนพร เลิศสกุลบรรลือ",
+      "preparedDate": "2026-10-26",
+      "dispensedDate": "2026-10-26",
+      "preparedBy": "น.ส.ฟาฏีนา โมงสะอะ",
+      "dispensedBy": "ภก. ธนากร ตันบุตร",
+      "verifiedBy": "ภก. ธนากร ตันบุตร",
       "inventory": [
         {
           "medicineId": "med-7",
@@ -425,7 +425,7 @@
           "lots": [
             {
               "id": "lot-1792229193750-1",
-              "lotNo": "๋680069",
+              "lotNo": "่๋J680069",
               "expDate": "2028-04-29",
               "qty": 4
             }
@@ -522,7 +522,7 @@
             {
               "id": "lot-1792229193750-1",
               "lotNo": "3250012 ",
-              "expDate": "2027-07-25",
+              "expDate": "2027-11-25",
               "qty": 2
             }
           ]
@@ -743,7 +743,7 @@
       "preparedDate": "2026-10-26",
       "dispensedDate": "2026-10-26",
       "preparedBy": "น.ส.ฟาฏีนา โมงสะอะ",
-      "dispensedBy": "ภก. ธนากร ตันบุตร",
+      "dispensedBy": ".",
       "verifiedBy": "ภก. ธนากร ตันบุตร",
       "inventory": [
         {
