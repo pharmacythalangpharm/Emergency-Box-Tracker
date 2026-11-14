@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-11-13T08:44:19.189Z",
+  "updatedAt": "2026-11-14T05:55:10.578Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "หอผู้ป่วยเวชสิริ 1",
@@ -2150,11 +2150,11 @@
     {
       "id": "box-1792245601002",
       "boxNumber": "16",
-      "department": "แผนกเภสัชกรรม",
+      "department": "หอผู้ป่วยเวชสิริ 2",
       "preparedDate": "2026-11-10",
-      "dispensedDate": "",
+      "dispensedDate": "2026-07-24",
       "preparedBy": "น.ส.ฟาฏีนา โมงสะอะ",
-      "dispensedBy": "",
+      "dispensedBy": "ภญ. ธนศรี แสงรุ้ง",
       "verifiedBy": "ภญ.อังคณา อนันต์ตันติกุล",
       "inventory": [
         {
