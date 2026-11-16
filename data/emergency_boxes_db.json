@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-11-16T05:15:35.801Z",
+  "updatedAt": "2026-11-16T05:15:50.865Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "หอผู้ป่วยเวชสิริ 1",
@@ -2971,7 +2971,7 @@
       "dispensedDate": "2026-07-24",
       "preparedBy": "นางนัยนา สีสอาด",
       "dispensedBy": "",
-      "verifiedBy": "",
+      "verifiedBy": "ภญ.วรนุช สิทธิสาร",
       "inventory": [
         {
           "medicineId": "med-7",
