@@ -1,7 +1,7 @@
 {
   "hospital": "ฝ่ายเภสัชกรรม โรงพยาบาลถลาง",
   "version": "1.0.0",
-  "updatedAt": "2026-11-19T21:11:27.866Z",
+  "updatedAt": "2026-11-19T21:14:23.019Z",
   "departments": [
     "แผนกผู้ป่วยฉุกเฉิน (ER)",
     "หอผู้ป่วยเวชสิริ 1",
@@ -3158,12 +3158,12 @@
     {
       "id": "box-1793851904505",
       "boxNumber": "10",
-      "department": "แผนกผู้ป่วยฉุกเฉิน (ER)",
-      "preparedDate": "2026-11-18",
+      "department": "แผนกเภสัชกรรม",
+      "preparedDate": "2026-11-20",
       "dispensedDate": "2026-11-20",
-      "preparedBy": "น.ส.ไพริน  นิลปานกัน",
-      "dispensedBy": "ภญ.ธนพร เลิศสกุลบรรลือ",
-      "verifiedBy": "ภญ.ธนพร เลิศสกุลบรรลือ",
+      "preparedBy": "น.ส.รุสนานี  สูแว",
+      "dispensedBy": "",
+      "verifiedBy": "ภญ.วรนุช สิทธิสาร",
       "inventory": [
         {
           "medicineId": "med-7",
@@ -3225,8 +3225,8 @@
           "lots": [
             {
               "id": "lot-1793851904505-1",
-              "lotNo": "5J6001",
-              "expDate": "2027-10-31",
+              "lotNo": "2FD26002",
+              "expDate": "0029-01-31",
               "qty": 2
             }
           ]
